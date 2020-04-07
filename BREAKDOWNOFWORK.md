@@ -10,7 +10,6 @@
 
 * I learned how to create wireframes using Figma.
 * I became familiar with different Bootstrap components to create a responsive design.
-* I learned more advanced techniques to manipulate HTML/CSS.
 * I spent time understanding licensing and creating detailed documentation.
 
 
