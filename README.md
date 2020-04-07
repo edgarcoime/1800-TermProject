@@ -1,7 +1,15 @@
 # MEMENTO - A To-Do List
 
-A password protected to-do list with a simple UI/UX design. 
-Memento allows you to check the weather for the day your plan is set.
+Memento is a space to organize your schedule on the browser. 
+
+You can check the weather for upcoming tasks. Each task has its own page in case it is a task that can't be completed in one day. There are no notifications, it is a to-do list driven by the intrinsic desire of the user akin to a journal.
+
+Feel free to access your tasks on mobile or desktop.
+
+[Here is the link to store your reminders.](https://term-project-1800.herokuapp.com/)
+
+***
+
 
 ## Team 5 Roles:
 
