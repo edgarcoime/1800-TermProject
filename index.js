@@ -18,7 +18,7 @@ const app = express()
 const mongooseUsername = "edgar-admin"
 const mongoosePassword = "test1234"
 mongoose.connect(`mongodb+srv://${mongooseUsername}:${mongoosePassword}@cluster0-sftgr.mongodb.net/todolistDB`,
-    { useNewUrlParser: true, useUnifiedTopology: true })
+    { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false })
 // mongoose.connect("mongodb://localhost:27017/1800todolist", 
 // {useUnifiedTopology: true, useNewUrlParser: true, useFindAndModify: false})
 
@@ -125,8 +125,8 @@ app.post('/', checkAuthenticated, (req, res) => {
         else {
             user.lists.push(newList)
             user.save()
+            res.redirect('/');
         }
-        res.redirect('/');
     })
 })
 
