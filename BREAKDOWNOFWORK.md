@@ -5,9 +5,12 @@ Implemented logic for Memento using MongoDB, EJS and Node
 
 
 ## Kat Olaguer
-**_Web Designer_**
+**_Web Designer_** - Created prototypes, implemented HTML/CSS and documentation.
 
-Created prototypes, implemented HTML/CSS and documentation.
+* I learned how to create wireframes using Figma.
+* I became familiar with different Bootstrap components to create a responsive design.
+* I learned more advanced techniques to manipulate HTML/CSS.
+* I spent time understanding licensing and documentation.
 
 
 ## George Yang
