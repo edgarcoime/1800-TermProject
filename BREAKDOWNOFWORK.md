@@ -5,7 +5,8 @@
 * I helped lead my teammates in understanding the different frameworks and syntax.
 * I oversaw the merging the front-end and back-end logic.
 * I exercised code review to ensure that logic of fellow developers integrates with project design
-* 
+* I helped integrate the backend system with EJS to create dynamically generated pages 
+
 
 ## Kat Olaguer
 **_Web Designer_UX_Designer** 
