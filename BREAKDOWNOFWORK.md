@@ -18,6 +18,7 @@
 **_Back-End Developer_**
 
 * I successfully learned how to implement authentication using Passport.
+* I integrated the log-out button for a more user-friendly experience.
 * I implemented the export button using Express and the Lodash package to Kebab case the file.
 
 ## Daniel Liu
