@@ -227,3 +227,17 @@ svg{
   background-color: #9e9e9e;
   border-color: #9e9e9e;
 }
+
+.logout-btn {
+  margin-top: 50px;
+}
+.btn-logout-text {
+  text-decoration: none;
+  color: white;
+}
+
+.btn-logout-text:hover {
+  text-decoration: none;
+  color: white;
+  margin-top: 100px;
+}
